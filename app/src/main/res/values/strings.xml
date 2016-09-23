@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">VkiNsuSchedule</string>
+    <string name="menu_navigation_settings_title">Settings</string>
+    <string name="view_navigation_open">Open</string>
+    <string name="view_navigation_close">Close</string>
+    <string-array name="spinner_list">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
 </resources>
